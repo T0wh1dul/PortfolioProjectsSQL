@@ -1,3 +1,4 @@
+**Overview**
 COVID-19 Data Exploration
 This repository contains SQL queries used for exploring and analyzing COVID-19 death and vaccination data. 
 The queries are designed to extract meaningful insights, including infection rates, death percentages, and vaccination progress across different locations and continents.
